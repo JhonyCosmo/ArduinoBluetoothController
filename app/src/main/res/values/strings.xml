@@ -11,6 +11,9 @@
     <string name="iniciar_descoberta_n_de_dispositivos">Iniciar descoberta\n de dispositivos</string>
     <string name="ola_mundo">Ola Mundo</string>
     <string name="menu_carcontrol">Controle Carro</string>
+    <string name="menu_carcontrol2">Controle Carro 2 botões</string>
     <string name="title_activity_car_controller">CarControllerActivity</string>
     <string name="buzina">Buzina</string>
+    <string name="brake">Freiar</string>
+    <string name="acelerate">Acelerar</string>
 </resources>

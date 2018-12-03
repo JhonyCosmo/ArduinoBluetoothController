@@ -7,4 +7,10 @@
         android:visible="true"
         android:showAsAction="always"
         tools:ignore="AppCompatResource" />
+    <item android:id="@+id/menu_carcontrol2"
+        android:icon="@mipmap/ic_phonelink_ring_black_24dp"
+        android:title="@string/menu_carcontrol2"
+        android:visible="true"
+        android:showAsAction="always"
+        tools:ignore="AppCompatResource" />
 </menu>

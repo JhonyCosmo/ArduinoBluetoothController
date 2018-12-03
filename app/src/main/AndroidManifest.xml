@@ -22,7 +22,7 @@
         <activity android:name=".CarControllerActivity" />
         <activity android:name=".DiscoveredDevicesListActivity" />
         <activity android:name=".PairedDevicesListActivity" />
-        <activity android:name=".DiscoveredDevicesListActivity$CarController2ButtonsActivity"></activity>
+        <activity android:name=".CarController2ButtonsActivity"></activity>
     </application>
 
 </manifest>
