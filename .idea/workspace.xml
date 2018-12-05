@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e64ec03-dad0-4b1c-96fc-15c64f0ff37a" name="Default" comment="Adicionando arquivos restantes" />
+    <list default="true" id="0e64ec03-dad0-4b1c-96fc-15c64f0ff37a" name="Default" comment="Adicionando arquivos restantes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +57,8 @@
       <file leaf-file-name="PairedDevicesListActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/br/arduinobluetoothcontroller/Views/PairedDevicesListActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-544">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -2442,6 +2444,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="arduinobluetoothcontroller" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ArduinoBluetoothController" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArduinoBluetoothController" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="arduinobluetoothcontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -2944,8 +2956,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/br/arduinobluetoothcontroller/Views/PairedDevicesListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-544">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="153">
+          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
         </state>
       </provider>
     </entry>
