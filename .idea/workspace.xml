@@ -9,10 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e64ec03-dad0-4b1c-96fc-15c64f0ff37a" name="Default" comment="Adicionando arquivos restantes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/br/arduinobluetoothcontroller" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/br/arduinobluetoothcontroller" afterDir="false" />
-    </list>
+    <list default="true" id="0e64ec03-dad0-4b1c-96fc-15c64f0ff37a" name="Default" comment="Adicionando arquivos restantes" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
