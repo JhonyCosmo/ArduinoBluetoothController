@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ControleBluetooth</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_paired_devices">paired_devices</string>
+    <string name="title_activity_discovered_devices_list">Discovered Devices</string>
+    <string name="dispositivos_n_pareados">Dispositivos\n pareados</string>
+    <string name="enviar_comando">Enviar Comando</string>
+    <string name="enviar_texto">Enviar Texto</string>
+    <string name="esperar_nconex_o">Esperar\nconexão</string>
+    <string name="habilitar_nvisibilidade">Habilitar\nVisibilidade</string>
+    <string name="iniciar_descoberta_n_de_dispositivos">Iniciar descoberta\n de dispositivos</string>
+    <string name="ola_mundo">Ola Mundo</string>
+    <string name="menu_carcontrol">Controle Carro</string>
+    <string name="menu_carcontrol2">Controle Carro 2 botões</string>
+    <string name="title_activity_car_controller">CarControllerActivity</string>
+    <string name="buzina">Buzina</string>
+    <string name="brake">Freiar</string>
+    <string name="acelerate">Acelerar</string>
+</resources>

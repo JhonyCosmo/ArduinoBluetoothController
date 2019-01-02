@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="br.arduinobluetoothcontroller.Views.MainActivity">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/iniciar_descoberta_n_de_dispositivos"
+        android:id="@+id/button_DiscoveredDevices"
+        android:layout_marginLeft="5dp"
+        tools:ignore="RtlHardcoded"
+        android:layout_below="@+id/button_PairedDevices"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dispositivos_n_pareados"
+        android:id="@+id/button_PairedDevices"
+        android:layout_marginTop="20dp"
+        tools:ignore="RtlHardcoded,UnknownId"
+        android:layout_alignEnd="@+id/button_DiscoveredDevices"
+        android:layout_alignStart="@+id/button_DiscoveredDevices" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText_MessageBox"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        tools:ignore="LabelFor,RtlHardcoded"
+        android:inputType="" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enviar_comando"
+        android:id="@+id/button_Send"
+        android:layout_above="@+id/editText_MessageBox"
+        android:layout_alignRight="@+id/editText_MessageBox"
+        android:layout_alignEnd="@+id/editText_MessageBox"
+        tools:ignore="RtlHardcoded" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/textSpace"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/statusMessage"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enviar_texto"
+        android:id="@+id/button_SendText"
+        android:layout_above="@+id/button_Send"
+        android:layout_alignParentEnd="true"
+        android:layout_alignStart="@+id/button_Send" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/esperar_nconex_o"
+        android:id="@+id/button_WaitConnection"
+        android:layout_marginLeft="5dp"
+        tools:ignore="RtlHardcoded"
+        android:layout_below="@+id/button_DiscoveredDevices"
+        android:layout_alignEnd="@+id/button_DiscoveredDevices"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
