@@ -72,10 +72,10 @@ MERGED from [com.android.support:support-compat:26.0.1] C:\Users\jhony\.gradle\c
 		ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
 		ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:14:9-40
-activity#br.arduinobluetoothcontroller.MainActivity
+activity#br.arduinobluetoothcontroller.Views.MainActivity
 ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:15:19-47
+		ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:15:19-53
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
@@ -86,22 +86,22 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:19:27-74
-activity#br.arduinobluetoothcontroller.CarControllerActivity
-ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:22:9-59
+activity#br.arduinobluetoothcontroller.Views.Controls.CarControlActivity
+ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:22:9-71
 	android:name
-		ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:22:19-56
-activity#br.arduinobluetoothcontroller.DiscoveredDevicesListActivity
-ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:23:9-67
+		ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:22:19-68
+activity#br.arduinobluetoothcontroller.Views.DiscoveredDevicesListActivity
+ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:23:9-73
 	android:name
-		ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:23:19-64
-activity#br.arduinobluetoothcontroller.PairedDevicesListActivity
-ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:24:9-63
+		ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:23:19-70
+activity#br.arduinobluetoothcontroller.Views.PairedDevicesListActivity
+ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:24:9-69
 	android:name
-		ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:24:19-60
-activity#br.arduinobluetoothcontroller.CarController2ButtonsActivity
-ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:25:9-76
+		ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:24:19-66
+activity#br.arduinobluetoothcontroller.Views.Controls.CarControl2ButtonsActivity
+ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:25:9-88
 	android:name
-		ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:25:19-64
+		ADDED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:25:19-76
 uses-sdk
 INJECTED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\PROJETOS\ANDROID\ArduinoBluetoothController\app\src\main\AndroidManifest.xml

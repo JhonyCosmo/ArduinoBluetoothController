@@ -19,17 +19,17 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="br.arduinobluetoothcontroller.MainActivity" >
+        <activity android:name="br.arduinobluetoothcontroller.Views.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="br.arduinobluetoothcontroller.CarControllerActivity" />
-        <activity android:name="br.arduinobluetoothcontroller.DiscoveredDevicesListActivity" />
-        <activity android:name="br.arduinobluetoothcontroller.PairedDevicesListActivity" />
-        <activity android:name="br.arduinobluetoothcontroller.CarController2ButtonsActivity" />
+        <activity android:name="br.arduinobluetoothcontroller.Views.Controls.CarControlActivity" />
+        <activity android:name="br.arduinobluetoothcontroller.Views.DiscoveredDevicesListActivity" />
+        <activity android:name="br.arduinobluetoothcontroller.Views.PairedDevicesListActivity" />
+        <activity android:name="br.arduinobluetoothcontroller.Views.Controls.CarControl2ButtonsActivity" />
 
         <meta-data
             android:name="android.support.VERSION"
